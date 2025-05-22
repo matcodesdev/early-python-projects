@@ -7,7 +7,7 @@ This repository contains small projects and practice scripts I created during my
 ### `schizobot-v1.py`
 A basic rule-based chatbot that can greet users, tell jokes, and respond to simple commands.
 
-### `floydbot-v1.py`
+### `floydquiz-v1.py`
 A Pink Floyd-themed quiz game with multiple-choice questions and score tracking.
 
 ---
